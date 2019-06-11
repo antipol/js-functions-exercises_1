@@ -1,8 +1,7 @@
 # Functions Exercises 
 
-## These exercises are aimed at making you more familiar with how to use functions. It is important to print all of your results to the console.
+## These exercises are aimed at making you more familiar with how to use functions. Print all of your results to the console.
 
-## Print all your results to the console! 
 
 #### 1. XO
 Create a function that takes a string, checks if it has the same number of 'x's and 'o's and returns either true or false.
